@@ -1,0 +1,3 @@
+[submodule "submodule-in-submodule"]
+	path = submodule-in-submodule
+	url = https://github.com/jkelroy/submodule-in-submodule.git
